@@ -1,5 +1,7 @@
-# L0
-This directory is supplementary material for our work submitted for review to NeurIPS 2021: "Efficient and Provably Robust Classification Under Sparse Attacks".
+# Truncation as a Defense for Sparse Attacks
+This directory is supplementary material for our work presented at 2022 IEEE International Symposium on Information Theory: 
+
+[Efficient and Robust Classification for Sparse Attacks](https://arxiv.org/abs/2201.09369) Mark Beliaev, Payam Delgosha, Hamed Hassani, Ramtin Pedarsani.
 
 All relevant citations for methods used are found in the paper's list of references.
 
